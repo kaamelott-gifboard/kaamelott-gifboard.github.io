@@ -645,15 +645,6 @@
         "slug": "c-est-tout-con-meme-un-debile-il-comprendrait"
     },
     {
-        "quote": "M'en fous j'irai pas",
-        "characters": [
-            "Yvain",
-            "Arthur"
-        ],
-        "filename": "men-fou-jirais-pas.gif",
-        "slug": "m-en-fous-j-irai-pas"
-    },
-    {
         "quote": "Merci mon cul",
         "characters": [
             "Perceval",
@@ -6643,5 +6634,14 @@
         ],
         "filename": "cest-lui-a-retire-epee.gif",
         "slug": "et-oui-c-est-lui-qui-l-a-retire-l-epee"
-    }
+    },
+    {
+        "quote": "Oui... bah non",
+        "characters": [
+            "Galessin",
+            "Loth d'Orcanie"
+        ],
+        "filename": "oui-bah-non.gif",
+        "slug": "oui-bah-non"
+    },
 ]
